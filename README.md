@@ -1,6 +1,6 @@
 # platform-sre-lab
 
-# Plano de Estudo e Evolução (2024-2026)
+# Plano de Estudo e Evolução
 🔹 1. Nível Avançado de Cloud Native
 Dominar Kubernetes em produção: upgrades, CRDs, eBPF, CNI, CSI
 
